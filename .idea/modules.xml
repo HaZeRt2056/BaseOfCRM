@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Poster_delivery_bot/.idea/Poster_delivery_bot.iml" filepath="$PROJECT_DIR$/../Poster_delivery_bot/.idea/Poster_delivery_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prod.iml" filepath="$PROJECT_DIR$/.idea/prod.iml" />
+      <module fileurl="file://D:/python/tg_bot01/.idea/tg_bot01.iml" filepath="D:/python/tg_bot01/.idea/tg_bot01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../work/.idea/work.iml" filepath="$PROJECT_DIR$/../work/.idea/work.iml" />
+    </modules>
+  </component>
+</project>
